@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ak-holidays/static/css/main.aa0e4398.css",
+    "main.js": "/ak-holidays/static/js/main.a1e75758.js",
+    "static/js/453.76a4c6b4.chunk.js": "/ak-holidays/static/js/453.76a4c6b4.chunk.js",
+    "static/media/slider.mp4": "/ak-holidays/static/media/slider.cb76b8fba727cb51bc5c.mp4",
+    "static/media/rv2.jpg": "/ak-holidays/static/media/rv2.10dd820b5b6adc41f194.jpg",
+    "static/media/contactbcimage.jpg": "/ak-holidays/static/media/contactbcimage.9c197f92fa9f2210c3d0.jpg",
+    "static/media/rv4.jpg": "/ak-holidays/static/media/rv4.bf0ebd14c0f525e386a7.jpg",
+    "static/media/card5.jpg": "/ak-holidays/static/media/card5.5b2740131edb54ce3f28.jpg",
+    "static/media/rv.jpg": "/ak-holidays/static/media/rv.47b221b134f238ffb063.jpg",
+    "static/media/homebc1.jpg": "/ak-holidays/static/media/homebc1.7d2c6cfebaa1eba8a6ee.jpg",
+    "static/media/card4.jpg": "/ak-holidays/static/media/card4.bb279b0926b269ca1e81.jpg",
+    "static/media/logo3.png": "/ak-holidays/static/media/logo3.49e7b2a6b17247cf2477.png",
+    "static/media/homebc.jpg": "/ak-holidays/static/media/homebc.ab3a28ea0244edbbf18b.jpg",
+    "static/media/enjoybc.jpg": "/ak-holidays/static/media/enjoybc.657e716c7851b1c0af91.jpg",
+    "static/media/rv3.jpg": "/ak-holidays/static/media/rv3.669e0a35378d84cc36d4.jpg",
+    "static/media/card3.jpg": "/ak-holidays/static/media/card3.71a9171f80a27376e7b2.jpg",
+    "static/media/card6.jpg": "/ak-holidays/static/media/card6.5ff0e222e812b5f906dd.jpg",
+    "static/media/card1.jpg": "/ak-holidays/static/media/card1.03baa322648ab67f4c0c.jpg",
+    "static/media/logo2.png": "/ak-holidays/static/media/logo2.8526a542b8c0e2e7fc6f.png",
+    "static/media/download.png": "/ak-holidays/static/media/download.d45f67f424e72eadc139.png",
+    "static/media/logo1.png": "/ak-holidays/static/media/logo1.1bff476ca981e569c026.png",
+    "static/media/card2.jpg": "/ak-holidays/static/media/card2.fe77373bbdd26f18d712.jpg",
+    "index.html": "/ak-holidays/index.html",
+    "main.aa0e4398.css.map": "/ak-holidays/static/css/main.aa0e4398.css.map",
+    "main.a1e75758.js.map": "/ak-holidays/static/js/main.a1e75758.js.map",
+    "453.76a4c6b4.chunk.js.map": "/ak-holidays/static/js/453.76a4c6b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa0e4398.css",
+    "static/js/main.a1e75758.js"
+  ]
+}
