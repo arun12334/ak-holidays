@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ak-holidays/static/css/main.96e42c30.css",
-    "main.js": "/ak-holidays/static/js/main.288ba599.js",
+    "main.js": "/ak-holidays/static/js/main.e5fbfad7.js",
     "static/js/453.76a4c6b4.chunk.js": "/ak-holidays/static/js/453.76a4c6b4.chunk.js",
     "static/media/travel1.gif": "/ak-holidays/static/media/travel1.70f745cc8dba6985e6c9.gif",
     "static/media/slider.mp4": "/ak-holidays/static/media/slider.cb76b8fba727cb51bc5c.mp4",
@@ -58,11 +58,11 @@
     "static/media/16fdhg3062.jpg": "/ak-holidays/static/media/16fdhg3062.dd0511afe9f125f8ed4c.jpg",
     "index.html": "/ak-holidays/index.html",
     "main.96e42c30.css.map": "/ak-holidays/static/css/main.96e42c30.css.map",
-    "main.288ba599.js.map": "/ak-holidays/static/js/main.288ba599.js.map",
+    "main.e5fbfad7.js.map": "/ak-holidays/static/js/main.e5fbfad7.js.map",
     "453.76a4c6b4.chunk.js.map": "/ak-holidays/static/js/453.76a4c6b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96e42c30.css",
-    "static/js/main.288ba599.js"
+    "static/js/main.e5fbfad7.js"
   ]
 }
