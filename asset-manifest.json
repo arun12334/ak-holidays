@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ak-holidays/static/css/main.96e42c30.css",
-    "main.js": "/ak-holidays/static/js/main.518ca822.js",
+    "main.js": "/ak-holidays/static/js/main.288ba599.js",
     "static/js/453.76a4c6b4.chunk.js": "/ak-holidays/static/js/453.76a4c6b4.chunk.js",
     "static/media/travel1.gif": "/ak-holidays/static/media/travel1.70f745cc8dba6985e6c9.gif",
     "static/media/slider.mp4": "/ak-holidays/static/media/slider.cb76b8fba727cb51bc5c.mp4",
@@ -28,25 +28,41 @@
     "static/media/U7England.jpg": "/ak-holidays/static/media/U7England.33f353d2e3408f6f1d9d.jpg",
     "static/media/kodaikanal.jpg": "/ak-holidays/static/media/kodaikanal.0c16ddce7a6748f46917.jpg",
     "static/media/U5NewYork.jpg": "/ak-holidays/static/media/U5NewYork.0b7bb1c0903c08b118a9.jpg",
+    "static/media/13SPITI.jpg": "/ak-holidays/static/media/13SPITI.c4d7ac2ebe96b8ce079a.jpg",
     "static/media/U12Italy.jpg": "/ak-holidays/static/media/U12Italy.3030567dc72d104b2de2.jpg",
     "static/media/card6.jpg": "/ak-holidays/static/media/card6.5ff0e222e812b5f906dd.jpg",
     "static/media/ooty.jpg": "/ak-holidays/static/media/ooty.7a9bdaeae95c95dd8dd6.jpg",
     "static/media/U10Pompeii.jpg": "/ak-holidays/static/media/U10Pompeii.21b5c6bd0b2514195dd7.jpg",
+    "static/media/12BANDIPUR-NATIONAL-PARK.jpg": "/ak-holidays/static/media/12BANDIPUR-NATIONAL-PARK.f20cb5b5197b980429c0.jpg",
+    "static/media/5sdsds2583.jpg": "/ak-holidays/static/media/5sdsds2583.3d2ee4b313dcdc0bbc54.jpg",
     "static/media/alleppey.jpg": "/ak-holidays/static/media/alleppey.a4a47f6c40308fbfa5ce.jpg",
+    "static/media/4highest-motorable-road-gc4c802a3c1920_20220209125719.jpg": "/ak-holidays/static/media/4highest-motorable-road-gc4c802a3c1920_20220209125719.c561bc0b8eec7cfded09.jpg",
+    "static/media/11_A_mysterious_lake_20190827110511.jpg": "/ak-holidays/static/media/11_A_mysterious_lake_20190827110511.eae3de36fd44dfbd9dc8.jpg",
     "static/media/U8India.jpg": "/ak-holidays/static/media/U8India.6445986ef069ba04ee2b.jpg",
+    "static/media/2zanskar.jpg": "/ak-holidays/static/media/2zanskar.089cdbb8fd78574343ac.jpg",
+    "static/media/14PONDICHERRY.jpg": "/ak-holidays/static/media/14PONDICHERRY.619e8a93b900230a613d.jpg",
     "static/media/U11Barcelona.jpg": "/ak-holidays/static/media/U11Barcelona.441c995d0fda41ad03cf.jpg",
+    "static/media/3Scuba-in-Andamans.jpg": "/ak-holidays/static/media/3Scuba-in-Andamans.6f555ad3cca56573cd54.jpg",
+    "static/media/8Route-1_20220209152609.jpeg": "/ak-holidays/static/media/8Route-1_20220209152609.63895aa2c59f99dbfd46.jpeg",
     "static/media/card1.jpg": "/ak-holidays/static/media/card1.03baa322648ab67f4c0c.jpg",
+    "static/media/15GANGTOK.jpg": "/ak-holidays/static/media/15GANGTOK.2d6d572015639ab1aad2.jpg",
+    "static/media/1MANALI.jpg": "/ak-holidays/static/media/1MANALI.1bd7e1a8a7bc838d6cba.jpg",
     "static/media/logo2.png": "/ak-holidays/static/media/logo2.8526a542b8c0e2e7fc6f.png",
     "static/media/download.png": "/ak-holidays/static/media/download.d45f67f424e72eadc139.png",
     "static/media/logo1.png": "/ak-holidays/static/media/logo1.1bff476ca981e569c026.png",
     "static/media/card2.jpg": "/ak-holidays/static/media/card2.fe77373bbdd26f18d712.jpg",
+    "static/media/6LONAVALA.jpg": "/ak-holidays/static/media/6LONAVALA.e8732da4d4e1769ae0d6.jpg",
+    "static/media/9gfggfg1156.jpg": "/ak-holidays/static/media/9gfggfg1156.2c8d512e5fccf0cc7612.jpg",
+    "static/media/7fgfg2583.jpg": "/ak-holidays/static/media/7fgfg2583.e32665689ee3bccd078e.jpg",
+    "static/media/10ssds1690.jpg": "/ak-holidays/static/media/10ssds1690.c2a2008bec3c8202d1bb.jpg",
+    "static/media/16fdhg3062.jpg": "/ak-holidays/static/media/16fdhg3062.dd0511afe9f125f8ed4c.jpg",
     "index.html": "/ak-holidays/index.html",
     "main.96e42c30.css.map": "/ak-holidays/static/css/main.96e42c30.css.map",
-    "main.518ca822.js.map": "/ak-holidays/static/js/main.518ca822.js.map",
+    "main.288ba599.js.map": "/ak-holidays/static/js/main.288ba599.js.map",
     "453.76a4c6b4.chunk.js.map": "/ak-holidays/static/js/453.76a4c6b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96e42c30.css",
-    "static/js/main.518ca822.js"
+    "static/js/main.288ba599.js"
   ]
 }
